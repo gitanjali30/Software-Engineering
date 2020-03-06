@@ -1,1 +1,22 @@
+Prototype Model
 
+Prototype methodology is defined as a Software Development model in which a prototype is built, test, and then reworked when needed until an acceptable prototype is achieved. It also creates a base to produce the final system.
+
+Software prototyping model works best in scenarios where the project's requirement are not known. It is an iterative, trial, and error method which take place between the developer and the client.
+
+Step 1: Requirements gathering and analysis
+A prototyping model starts with requirement analysis. In this phase, the requirements of the system are defined in detail. During the process, the users of the system are interviewed to know what is their expectation from the system.
+
+Step 2: Quick design
+The second phase is a preliminary design or a quick design. In this stage, a simple design of the system is created. However, it is not a complete design. It gives a brief idea of the system to the user. The quick design helps in developing the prototype.
+
+Step 3: Build a Prototype
+In this phase, an actual prototype is designed based on the information gathered from quick design. It is a small working model of the required system.
+
+Step 4: Initial user evaluation
+In this stage, the proposed system is presented to the client for an initial evaluation. It helps to find out the strength and weakness of the working model. Comment and suggestion are collected from the customer and provided to the developer.
+
+Step 5: Refining prototype
+If the user is not happy with the current prototype, you need to refine the prototype according to the user's feedback and suggestions.
+
+This phase will not over until all the requirements specified by the user are met. Once the user is satisfied with the developed prototype, a final system is developed based on the approved final prototype.
